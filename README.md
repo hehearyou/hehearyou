@@ -5,7 +5,7 @@
 <table align="left">
   <tr>
     <th>
-<img width="500" height="241" alt="hLIx2EmYWIZQz7Fzc2me9eLQK2waLE2fZX710U93SUB1OiqBgPWK1PJ1oTPGgEEvwGZqcb9in6_jV6xJQAgwSxFT" src="https://github.com/user-attachments/assets/bae91251-03f3-46d5-b853-14345b854a4b" />
+<img width="430" height="240" alt="ku4ukYJjFCMMEJ3j3he56dmQZwqW5jcbEd_cI8Lv7ROzorTWuje1ll6g8_YYaCvirFE0TGumT9RJ3gPv07_TIctv" src="https://github.com/user-attachments/assets/cd1e5a25-4e7e-4e7a-ad9b-7a2b9aa13fca" />
  </th>
   </tr>
 </table>
