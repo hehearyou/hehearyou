@@ -2,8 +2,13 @@
 <img width="600" height="337" alt="images steamusercontentGFVC" src="https://github.com/user-attachments/assets/01499689-8c2b-439c-bf22-75e590090c56"/>
 </p>
 
-
+<table align="left">
+  <tr>
+    <th>
 <img width="500" height="241" alt="hLIx2EmYWIZQz7Fzc2me9eLQK2waLE2fZX710U93SUB1OiqBgPWK1PJ1oTPGgEEvwGZqcb9in6_jV6xJQAgwSxFT" src="https://github.com/user-attachments/assets/bae91251-03f3-46d5-b853-14345b854a4b" />
+ </th>
+  </tr>
+</table>
 
 <table align="right">
   <tr>
@@ -21,12 +26,3 @@
   </tr>
 </table>
 
-
-
-<p align="center">
-  <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
-</p>
-
-#
-
-<a href="https://github.com/kittinan/spotify-github-profile"><kbd>spotify embed</kbd></a><a href="https://github.com/JeffreyCA/lastfm-recently-played-readme"><kbd>last.fm embed</kbd></a><a href="https://shields.io/badges"><kbd>button maker</kbd></a>
