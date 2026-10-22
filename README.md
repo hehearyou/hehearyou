@@ -5,7 +5,8 @@
 <table align="left">
   <tr>
     <th>
-<img width="430" height="240" alt="ku4ukYJjFCMMEJ3j3he56dmQZwqW5jcbEd_cI8Lv7ROzorTWuje1ll6g8_YYaCvirFE0TGumT9RJ3gPv07_TIctv" src="https://github.com/user-attachments/assets/cd1e5a25-4e7e-4e7a-ad9b-7a2b9aa13fca" />
+<img width="390" height="260" alt="ghjfvkicdopxs-resized" src="https://github.com/user-attachments/assets/6d3ebaad-e951-4b72-a998-2ac0a383235e" />
+
  </th>
   </tr>
 </table>
