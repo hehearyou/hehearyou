@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
+  <img width="1200" height="117" alt="687474~1" src="https://github.com/user-attachments/assets/a8c58922-4b97-4c50-9799-45f17223d44b" />
+
 </p>
 
 <table align="left">
