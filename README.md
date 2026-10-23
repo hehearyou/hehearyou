@@ -6,7 +6,9 @@
 <p align="center">
   <img style="width: px width="1200" height="117" alt="687474~1" src="https://github.com/user-attachments/assets/a8c58922-4b97-4c50-9799-45f17223d44b" />
 </p>
-
+<p align="center">
+<img style="width: px width="1200" height="16" alt="reds" src="https://github.com/user-attachments/assets/db943467-c7b9-4370-8c7b-8aab0fe1bbf2" />
+</p>
 
 <img alt="ghjfvkicdopxs-resized" src="https://github.com/user-attachments/assets/6b044eec-0192-482f-8e30-c0ac58d05daa" width="400" align="left"/>
 
@@ -24,8 +26,8 @@
  
    ╭─────── • • ─────── ⋆♱⋆ ─────── • • ───────╮
       <br>
-   <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C5295A&center=true&width=375&lines=%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%98%F0%9D%90%80)](https://git.io/typing-svg)
-    <br> ♀⠀ ⠀•⠀⠀ 𝟚𝟜 ⠀⠀•⠀⠀ᴇsᴛᴘ ⠀•⠀⠀sᴏ   8 ᴡ 7⠀
+   <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7B001C&center=true&width=370&lines=%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%98%F0%9D%90%80)](https://git.io/typing-svg)
+    <br> $\color{#900020}{\texttt{♀}}$⠀ ⠀•⠀⠀ 𝟚𝟜 ⠀⠀•⠀⠀ᴇsᴛᴘ ⠀•⠀⠀sᴏ   8 ᴡ 7⠀
       <br>
    <br> ╰─────── • • ─────── ⋆♱⋆ ─────── • • ───────╯
 
