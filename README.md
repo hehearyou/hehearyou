@@ -1,6 +1,6 @@
 <p align="center">
-<img style="width: px width="368" height="123" alt="IMG_2891-resized" src="https://github.com/user-attachments/assets/7e8107f3-48fd-49bc-b179-53f2c7b083ff" />
-<img style="width: px width="368" height="123" alt="IMG_2890-resized" src="https://github.com/user-attachments/assets/9fb8af74-6fe5-4d66-9ffa-b471aba249a2" />
+<img alt="IMG_2891-resized" src="https://github.com/user-attachments/assets/7e8107f3-48fd-49bc-b179-53f2c7b083ff" width="400" align="left"/>
+<img alt="IMG_2890-resized" src="https://github.com/user-attachments/assets/9fb8af74-6fe5-4d66-9ffa-b471aba249a2" width="400" align="right"/>
 </p>
 
 <p align="center">
