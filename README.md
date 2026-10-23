@@ -1,5 +1,6 @@
 <p align="center">
-<img width="600" height="337" alt="images steamusercontentGFVC" src="https://github.com/user-attachments/assets/01499689-8c2b-439c-bf22-75e590090c56"/>
+<img width="368" height="123" alt="IMG_2891-resized" src="https://github.com/user-attachments/assets/7e8107f3-48fd-49bc-b179-53f2c7b083ff" />
+<img width="368" height="123" alt="IMG_2890-resized" src="https://github.com/user-attachments/assets/9fb8af74-6fe5-4d66-9ffa-b471aba249a2" />
 </p>
 
 <p align="center">
