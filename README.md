@@ -44,10 +44,10 @@
 
 <br>
 <br>
+<br>
 <p align="center">
 <img style="width: px width="1200" height="16" alt="reds" src="https://github.com/user-attachments/assets/db943467-c7b9-4370-8c7b-8aab0fe1bbf2" />
 </p>
-<br>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=560319&center=true&width=1200&lines=%22%F0%9D%90%82%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93+%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%93+%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84+%F0%9D%90%83%F0%9D%90%84%F0%9D%90%95%F0%9D%90%88%F0%9D%90%8B%22+%E2%99%B1)](https://git.io/typing-svg)
