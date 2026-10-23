@@ -16,7 +16,7 @@
 
 <table align="right">
   <tr>
-    <th>  <a  <img src="https://img.shields.io/badge/%3D%E2%82%8D%5E%E2%80%A2%20--%20%E2%80%A2%5E%20%E2%82%8E-db2a94?style=plastic" title="mew!"> <img src="https://img.shields.io/badge/%3D%E2%82%8D%5E%E2%80%A2%20--%20%E2%80%A2%5E%20%E2%82%8E-db2a94?style=plastic" title="mew!">  <img src="https://custom-icon-badges.demolab.com/badge/Mine-Craft-a3cc1d?style=plastic&logo=heart-fill&labelColor=73533e" title="at the end of the day, we mine."> <img src="https://img.shields.io/badge/Berd%20Nerd-9730cf?style=plastic&logo=doubanread&logoColor=ffffff" title="ah well everybody's heard about the bird a BIRD BIRD BIRD BIRD IS THE WORDDD!!!"></a>  <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> 
+    <th>  <img width="150" height="20" alt="617584620-fa50772c-506b-4387-9e40-a039c5f03351" src="https://github.com/user-attachments/assets/c9f70130-964b-40a3-b88a-70e14b7db9b5" /> <img width="150" height="20" alt="504431769-c1cecdef-e3ff-48af-a310-18d382c80d27" src="https://github.com/user-attachments/assets/5dadfc96-dcec-4922-a619-52d7706f9e65" />  
  <p align="center">     ☆⚬‿̩͙‿੭✧──────────✧♱✧──────────✧ৎ‿̩͙‿⚬☆
       <br>
    <br> 
@@ -27,7 +27,7 @@
    ╭─────── • • ─────── ⋆♱⋆ ─────── • • ───────╮
       <br>
    <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7B001C&center=true&width=370&lines=%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%98%F0%9D%90%80)](https://git.io/typing-svg)
-    <br> $\color{#900020}{\texttt{♀}}$⠀ ⠀•⠀⠀ 𝟚𝟜 ⠀⠀•⠀⠀ᴇsᴛᴘ ⠀•⠀⠀sᴏ   8 ᴡ 7⠀
+    <br> $\color{#900020}{\texttt{♀}}$⠀ ⠀•⠀⠀ $\color{#900020}{\texttt{𝟚𝟜}}$ ⠀⠀•⠀⠀$\color{#900020}{\texttt{ᴇsᴛᴘ}}$ ⠀•⠀⠀$\color{#900020}{\texttt{sᴏ   8 ᴡ 7}}$⠀
       <br>
    <br> ╰─────── • • ─────── ⋆♱⋆ ─────── • • ───────╯
 
