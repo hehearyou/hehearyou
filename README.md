@@ -29,7 +29,7 @@
  
    ╭─────── • • ─────── ⋆♱⋆ ─────── • • ───────╮
       <br>
-   <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C5295A&center=true&width=435&lines=%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%98%F0%9D%90%80)](https://git.io/typing-svg)
+   <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C5295A&center=true&width=375&lines=%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%98%F0%9D%90%80)](https://git.io/typing-svg)
     <br> ♀⠀ ⠀•⠀⠀ 𝟚𝟜 ⠀⠀•⠀⠀ᴇsᴛᴘ ⠀•⠀⠀sᴏ   8 ᴡ 7⠀
       <br>
    <br> ╰─────── • • ─────── ⋆♱⋆ ─────── • • ───────╯
