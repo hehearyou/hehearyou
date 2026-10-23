@@ -34,6 +34,10 @@
   <br>— 𝚈𝚘𝚞 𝚖𝚎𝚊𝚗 𝚢𝚘𝚞'𝚛𝚎 𝚊𝚌𝚝𝚞𝚊𝚕𝚕𝚢 𝚐𝚘𝚒𝚗𝚐 𝚝𝚘 𝚔𝚒𝚕𝚕 𝚖𝚎?
    <br>— 𝚆𝚎𝚕𝚕, 𝚐𝚘 𝚊𝚑𝚎𝚊𝚍.
    <br> ╰─────── • • ─────── ⋆♱⋆ ─────── • • ───────╯
+ <p align="center">
+   <img width="390" height="52" alt="687474~2(1)" src="https://github.com/user-attachments/assets/1ca3f291-84c1-4e66-aee5-950a509ba6a4" />
+
+</p>
   </th>
   </tr>
 </table>
