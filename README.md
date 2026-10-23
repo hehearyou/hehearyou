@@ -67,7 +67,7 @@
 <p align="center">
 <details>
 
-  <summary><strong>  $\color{#92000A}{\texttt{dni}}$ </strong></summary> 
+  <summary><strong>  $\color{#92000A}{\texttt{dni ⌖}}$ </strong></summary> 
 
   <br>
 
@@ -80,6 +80,20 @@
 
 </details>
 </p>
+
+<details>
+  <summary><strong> $\color{#92000A}{\texttt{kins ⌖}}$ </strong></summary>
+
+  <br>
+  <p align="center">
+    ˗ˏˋ ʟɪᴛᴇʀᴀʟʟʏ ᴍᴇ ´ˎ˗
+    </p>
+
+ <p align="center">
+  <img width="300" alt="1yiGNfjM6OnfU1SlpkSWcUFHBWwuvmqK8Syqo2kmIW6psTIpIrOh46fcXMqihSJEKTkFzaJZXd73_Pj7cNY5m5FI(1)" src="https://github.com/user-attachments/assets/d74deb36-973c-4d42-96b9-ce1acdade3b1" />
+  </p>
+
+
 
 <img width="" height="" alt="IMG_2924(1)" src="https://github.com/user-attachments/assets/ad0b7449-afb5-47b3-a560-9c3f7e1de70e" />
 
