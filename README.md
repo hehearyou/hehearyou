@@ -33,9 +33,6 @@
     <br> ♀⠀ ⠀•⠀⠀ 𝟚𝟜 ⠀⠀•⠀⠀ᴇsᴛᴘ ⠀•⠀⠀sᴏ   8 ᴡ 7⠀
       <br>
    <br> ╰─────── • • ─────── ⋆♱⋆ ─────── • • ───────╯
-
- <br>  <img width="390" height="52" alt="687474~2(1)" src="https://github.com/user-attachments/assets/1ca3f291-84c1-4e66-aee5-950a509ba6a4" />
-
 </p>
   </th>
   </tr>
