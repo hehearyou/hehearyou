@@ -8,7 +8,7 @@
 </p>
 
 
-<img align="left" width="400" height="260" alt="ghjfvkicdopxs-resized" src="https://github.com/user-attachments/assets/6b044eec-0192-482f-8e30-c0ac58d05daa" />
+<img alt="ghjfvkicdopxs-resized" src="https://github.com/user-attachments/assets/6b044eec-0192-482f-8e30-c0ac58d05daa" width="400" align="left"/>
 
 
 
@@ -35,5 +35,5 @@
   </tr>
 </table>
 
-<br> <img align="left" width="400" height="52" alt="687474~3(1)" src="https://github.com/user-attachments/assets/0042d9c7-6f30-4064-aaf1-0c12437dee84" />
-<br> <img align="left" width="400" height="52" alt="687474~4(1)" src="https://github.com/user-attachments/assets/feb592d0-8119-457f-8726-51095f1714b0" />
+<br> <img alt="687474~3(1)" src="https://github.com/user-attachments/assets/0042d9c7-6f30-4064-aaf1-0c12437dee84" width="400" align="left"/>
+<br> <img alt="687474~4(1)" src="https://github.com/user-attachments/assets/feb592d0-8119-457f-8726-51095f1714b0" width="400" align="left"/>
