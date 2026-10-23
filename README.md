@@ -31,6 +31,7 @@
       <br>
      <br> ʙɪᴘᴏʟᴀʀ ᴅɪsᴏʀᴅᴇʀ ⠀⠀•⠀⠀ᴘᴛsᴅ
      <br>
+   <br>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=820526EA&center=true&vCenter=true&width=300&lines=%F0%9D%9F%99%F0%9D%9F%A0%2B)](https://git.io/typing-svg)
    <br> ╰─────── • • ─────── ⋆♱⋆ ─────── • • ───────╯
 </p>
   </th>
