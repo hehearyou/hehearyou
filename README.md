@@ -11,10 +11,7 @@
 <img style="width: px width="1200" height="16" alt="reds" src="https://github.com/user-attachments/assets/db943467-c7b9-4370-8c7b-8aab0fe1bbf2" />
 </p>
 
-
-
  <img alt="ghjfvkicdopxs-resized" src="https://github.com/user-attachments/assets/6b044eec-0192-482f-8e30-c0ac58d05daa" width="400" align="left"/>
-
 
 
 <table align="right">
@@ -64,7 +61,7 @@
 <img alt="IMG_2945(1)" src="https://github.com/user-attachments/assets/383cff7a-a05b-49c7-908a-a32cdf74b9a6" width="300" align="left"/>
 <img alt="IMG_2946(1)" src="https://github.com/user-attachments/assets/d2867259-576b-4dc2-bfeb-0455f6b6a26d" width="300" align="right"/>
 
-<p align="center">
+
 <details>
 
   <summary><strong>  $\color{#92000A}{\texttt{dni ⌖}}$ </strong></summary> 
@@ -79,7 +76,6 @@
 <br>╰┈➤ ᴀʟᴀʀᴍɪsᴛs.</a>
 
 </details>
-</p>
 
 <details>
   <summary><strong> $\color{#92000A}{\texttt{kins ⌖}}$ </strong></summary>
@@ -93,6 +89,7 @@
   <img width="300" alt="1yiGNfjM6OnfU1SlpkSWcUFHBWwuvmqK8Syqo2kmIW6psTIpIrOh46fcXMqihSJEKTkFzaJZXd73_Pj7cNY5m5FI(1)" src="https://github.com/user-attachments/assets/d74deb36-973c-4d42-96b9-ce1acdade3b1" />
   </p>
 
+  </details>
 
 
 <img width="" height="" alt="IMG_2924(1)" src="https://github.com/user-attachments/assets/ad0b7449-afb5-47b3-a560-9c3f7e1de70e" />
