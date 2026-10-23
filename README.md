@@ -67,7 +67,7 @@
 <p align="center">
 <details>
 
-  <summary><strong>  $\color{#4F0014}{\texttt{dni}}$ </strong></summary> 
+  <summary><strong>  $\color{#92000A}{\texttt{dni}}$ </strong></summary> 
 
   <br>
 
