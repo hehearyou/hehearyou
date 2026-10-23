@@ -80,11 +80,6 @@
 <details>
   <summary><strong> $\color{#92000A}{\texttt{kins ⌖}}$ </strong></summary>
 
-  <br>
-  <p align="center">
-    ˗ˏˋ ʟɪᴛᴇʀᴀʟʟʏ ᴍᴇ ´ˎ˗
-    </p>
-
  <p align="center">
   <img width="300" alt="1yiGNfjM6OnfU1SlpkSWcUFHBWwuvmqK8Syqo2kmIW6psTIpIrOh46fcXMqihSJEKTkFzaJZXd73_Pj7cNY5m5FI(1)" src="https://github.com/user-attachments/assets/d74deb36-973c-4d42-96b9-ce1acdade3b1" />
   </p>
