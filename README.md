@@ -52,7 +52,8 @@
 
 <img width="" height="" alt="620385329-411cd838-e3fd-4fc0-954f-bab177f31bef" src="https://github.com/user-attachments/assets/90be8009-1412-4b3b-bd2b-9c189e05d950" />
 
-
+ <br> 
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=37&pause=1000&color=560319EA&center=true&width=1200&lines=%22%F0%9D%90%82%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93+%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%93+%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84+%F0%9D%90%83%F0%9D%90%84%F0%9D%90%95%F0%9D%90%88%F0%9D%90%8B%22+%E2%99%B1)](https://git.io/typing-svg)
 
 <p align="center">
