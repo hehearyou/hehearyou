@@ -107,8 +107,10 @@
 
 <br>
 
+<img width="" height="" alt="IMG_0626" src="https://github.com/user-attachments/assets/6aed6702-b771-4ade-bec7-9b526822b68f" />
+
  
-<table style="border: 2px solid #834E74; border-radius: 8px;">
+<table align="center">
   <tr>
     <td width="50%" style="padding: 20px; text-align: center;">
       <p align="center">
