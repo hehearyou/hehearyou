@@ -23,7 +23,9 @@
      <img width="150" height="20" alt="504437955-4bc00f2e-b664-4d4d-89ad-d1931a4eb445" src="https://github.com/user-attachments/assets/f633ae0f-e755-4ad8-9517-54321f34a21f" />
       <br>
    <br> 
-   $\color{#f05790}{\texttt{𝐞𝐯𝐞𝐧 𝐭𝐡𝐞 𝐢𝐫𝐨𝐧 𝐬𝐭𝐢𝐥𝐥 𝐟𝐞𝐚𝐫𝐬 𝐭𝐡𝐞 𝐫𝐨𝐭.}}$⠀
+ <img width="20" alt="68747470733a2f2f692e706f7374696d672e63632f6a53464c427738762f54756d626c722d6c2d323032353235303337353230393932372e676966" src="https://github.com/user-attachments/assets/600043d1-4b7b-4216-833b-6538ab79a310" />
+  $\color{#f05790}{\texttt{𝐞𝐯𝐞𝐧 𝐭𝐡𝐞 𝐢𝐫𝐨𝐧 𝐬𝐭𝐢𝐥𝐥 𝐟𝐞𝐚𝐫𝐬 𝐭𝐡𝐞 𝐫𝐨𝐭.}}$⠀<img width="20" alt="68747470733a2f2f692e706f7374696d672e63632f51647948763936302f54756d626c722d6c2d323032353234383932393333393039342e676966" src="https://github.com/user-attachments/assets/a0a18cdd-cbe9-43f0-b31d-166fbbed537d" />
+
   <br>
    <br>
  
