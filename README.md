@@ -87,9 +87,24 @@
 
   </details>
 
+<br>
+<br>
 
-<img width="" height="" alt="IMG_2924(1)" src="https://github.com/user-attachments/assets/ad0b7449-afb5-47b3-a560-9c3f7e1de70e" />
+ <p align="center">
+<table style="border: 2px solid #834E74; border-radius: 8px;">
+  <tr>
+    <td width="50%" style="padding: 20px; border-right: 2px solid #834E74;">
+    <strong style="color: #834E74;">$\color{AC1754}{\textsf{ɪ ꜰᴜᴄᴋɪɴɢ ʜᴀᴛᴇ ʏᴏᴜ}}$  
+<br> <strong style="color: #834E74;">$\color{E53888}{\textsf{ʙᴜᴛ ɪ ʟᴏᴠᴇ ʏᴏᴜ}}$  
+<br> <strong style="color: #834E74;">$\color{F37199}{\textsf{ɪ'ᴍ ʙᴀᴅ ᴀᴛ ᴋᴇᴇᴘɪɴɢ ᴍʏ ᴇᴍᴏᴛɪᴏɴs ʙᴜʙʙʟᴇᴅ}}$  
+<br> <strong style="color: #834E74;">$\color{F7A8C4}{\textsf{ʏᴏᴜ'ʀᴇ ɢᴏᴏᴅ ᴀᴛ ʙᴇɪɴɢ ᴘᴇʀꜰᴇᴄᴛ}}$  
+<br> <strong style="color: #834E74;">$\color{AC1754}{\textsf{ᴡᴇ'ʀᴇ ɢᴏᴏᴅ ᴀᴛ ʙᴇɪɴɢ ᴛʀᴏᴜʙʟᴇᴅ}}$ 
+ </td>
+ 
+<td width="50%" style="padding: 20px; text-align: center;">
+ <a href="https://github.com/Shushuja">
+ <img width="200" alt="IMG_3009(1)" src="https://github.com/user-attachments/assets/f5355feb-3003-4612-9fff-a30f1047675a" />
+</a>
 
-
-
+  </p>
 
