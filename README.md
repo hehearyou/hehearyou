@@ -105,20 +105,18 @@
 <br>
 <br>
 
-<br>
-
-<img width="" height="" alt="IMG_0626" src="https://github.com/user-attachments/assets/6aed6702-b771-4ade-bec7-9b526822b68f" />
-
  
 <table align="center">
   <tr>
     <td width="50%" style="padding: 20px; text-align: center;">
+     <img  width="300" alt="IMG_0626" src="https://github.com/user-attachments/assets/727d2deb-5b5d-4513-bcd5-912c5901fc1d" />
       <p align="center">
     <strong style="color: #834E74;">$\color{AC1754}{\textsf{ɪ ꜰᴜᴄᴋɪɴɢ ʜᴀᴛᴇ ʏᴏᴜ}}$  
 <br> <strong style="color: #834E74;">$\color{E53888}{\textsf{ʙᴜᴛ ɪ ʟᴏᴠᴇ ʏᴏᴜ}}$  
 <br> <strong style="color: #834E74;">$\color{F37199}{\textsf{ɪ'ᴍ ʙᴀᴅ ᴀᴛ ᴋᴇᴇᴘɪɴɢ ᴍʏ ᴇᴍᴏᴛɪᴏɴs ʙᴜʙʙʟᴇᴅ}}$  
 <br> <strong style="color: #834E74;">$\color{F7A8C4}{\textsf{ʏᴏᴜ'ʀᴇ ɢᴏᴏᴅ ᴀᴛ ʙᴇɪɴɢ ᴘᴇʀꜰᴇᴄᴛ}}$  
-<br> <strong style="color: #834E74;">$\color{AC1754}{\textsf{ᴡᴇ'ʀᴇ ɢᴏᴏᴅ ᴀᴛ ʙᴇɪɴɢ ᴛʀᴏᴜʙʟᴇᴅ}}$ <br></strong>
+ <br> 
+<br> <strong style="color: #834E74;">$\color{AC1754}{\textsf{ᴡᴇ'ʀᴇ ɢᴏᴏᴅ ᴀᴛ ʙᴇɪɴɢ ᴛʀᴏᴜʙʟᴇᴅ}}$ <br></strong> 
    </p>
  </td>
  
