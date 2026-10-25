@@ -9,12 +9,8 @@
 
 <p align="center">
  <img style="width: px width="1200" height="250" alt="gif-color-changed" src="https://github.com/user-attachments/assets/7661ed2d-f3ba-4397-b4bf-30fa21652223" />
-
 </p>
 
-<p align="center">
-<img style="width: px width="1200" height="16" alt="reds" src="https://github.com/user-attachments/assets/db943467-c7b9-4370-8c7b-8aab0fe1bbf2" />
-</p>
 
  <img alt="ghjfvkicdopxs-resized" src="https://github.com/user-attachments/assets/6b044eec-0192-482f-8e30-c0ac58d05daa" width="400" align="left"/>
 
@@ -51,11 +47,10 @@
 <br>
 <br>
 
-<p align="center">
-<img width="" height="" alt="682701068-db943467-c7b9-4370-8c7b-8aab0fe1bbf2" src="https://github.com/user-attachments/assets/1314fcca-091b-4287-bed4-355f91e09058" />
-</p>
 
-<img width="" height="" alt="620385329-411cd838-e3fd-4fc0-954f-bab177f31bef" src="https://github.com/user-attachments/assets/90be8009-1412-4b3b-bd2b-9c189e05d950" />
+<p align="center">
+<img width="" height="" alt="gif-color-changed(3)" src="https://github.com/user-attachments/assets/a9f19684-3cd3-4170-aba6-c5607e2511db" />
+</p>
 
  <br> 
  <br>
@@ -63,16 +58,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=37&pause=1000&color=560319EA&center=true&width=1200&lines=%22%F0%9D%90%82%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93+%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%93+%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84+%F0%9D%90%83%F0%9D%90%84%F0%9D%90%95%F0%9D%90%88%F0%9D%90%8B%22+%E2%99%B1)](https://git.io/typing-svg)
 
 <p align="center">
-<img width="" height="" alt="IMG_2939(1)" src="https://github.com/user-attachments/assets/085c845f-18ce-4596-895e-cb23bd46a93f" />
+<img width="" height="" alt="IMG_3004(1)(1)" src="https://github.com/user-attachments/assets/4ebb9479-738f-4100-9ef8-fc4165745020" />
 </p>
 
-<img alt="IMG_2945(1)" src="https://github.com/user-attachments/assets/383cff7a-a05b-49c7-908a-a32cdf74b9a6" width="300" align="left"/>
-<img alt="IMG_2946(1)" src="https://github.com/user-attachments/assets/d2867259-576b-4dc2-bfeb-0455f6b6a26d" width="300" align="right"/>
+<img alt="IMG_3002(1)" src="https://github.com/user-attachments/assets/3bc0668a-3d9c-47de-ba14-cddef87830f4" width="300" align="left"/>
+<img alt="IMG_3001(1)" src="https://github.com/user-attachments/assets/c772f3fd-4fdb-4737-9833-0c2b154a527a" width="300" align="right"/>
+
 
 
 <details>
 
-  <summary><strong>  $\color{#92000A}{\texttt{dni ⌖}}$ </strong></summary> 
+  <summary><strong>  $\color{#f85888}{\texttt{dni ⌖}}$ </strong></summary> 
 
   <br>
 
@@ -86,7 +82,7 @@
 </details>
 
 <details>
-  <summary><strong> $\color{#92000A}{\texttt{kins ⌖}}$ </strong></summary>
+  <summary><strong> $\color{#f85888}{\texttt{kins ⌖}}$ </strong></summary>
 
  <p align="center">
   <img width="300" alt="1yiGNfjM6OnfU1SlpkSWcUFHBWwuvmqK8Syqo2kmIW6psTIpIrOh46fcXMqihSJEKTkFzaJZXd73_Pj7cNY5m5FI(1)" src="https://github.com/user-attachments/assets/d74deb36-973c-4d42-96b9-ce1acdade3b1" />
