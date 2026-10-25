@@ -106,7 +106,7 @@
 <br>
 
 <br>
-<strong style="color: #834E74;">$\color{#A75C81}{\textsf{────۶ৎ────}}$
+
  
 <table style="border: 2px solid #834E74; border-radius: 8px;">
   <tr>
