@@ -106,7 +106,7 @@
  
 <td width="50%" style="padding: 20px; text-align: center;">
  <a href="https://github.com/Shushuja">
- <img width="200" alt="IMG_3009(1)" src="https://github.com/user-attachments/assets/f5355feb-3003-4612-9fff-a30f1047675a" />
+ <img width="300" alt="IMG_3009(1)" src="https://github.com/user-attachments/assets/f5355feb-3003-4612-9fff-a30f1047675a" />
 </a>
    </td>
   </tr>
