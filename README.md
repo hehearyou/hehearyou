@@ -91,9 +91,10 @@
 <br>
 <br>
 
-<table style="border: 2px solid #834E74; border-radius: 8px; text-align: center;">
+<br>
+<table style="border: 2px solid #834E74; border-radius: 8px;">
   <tr>
-    <td width="50%" style="padding: 20px; border-right: 2px solid #834E74;">
+    <td width="50%" style="padding: 20px; text-align: center;">
       <p align="center">
     <strong style="color: #834E74;">$\color{AC1754}{\textsf{ɪ ꜰᴜᴄᴋɪɴɢ ʜᴀᴛᴇ ʏᴏᴜ}}$  
 <br> <strong style="color: #834E74;">$\color{E53888}{\textsf{ʙᴜᴛ ɪ ʟᴏᴠᴇ ʏᴏᴜ}}$  
@@ -107,5 +108,6 @@
  <a href="https://github.com/Shushuja">
  <img width="200" alt="IMG_3009(1)" src="https://github.com/user-attachments/assets/f5355feb-3003-4612-9fff-a30f1047675a" />
 </a>
-
-
+   </td>
+  </tr>
+</table>
