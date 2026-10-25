@@ -12,20 +12,22 @@
 </p>
 
 
- <img alt="ghjfvkicdopxs-resized" src="https://github.com/user-attachments/assets/6b044eec-0192-482f-8e30-c0ac58d05daa" width="400" align="left"/>
+   <br>
+  <img  alt="20811163765476" src="https://github.com/user-attachments/assets/46ffe34d-6873-4554-a3b1-eb990562223e" width="400" align="left"/>
 
 
+  <br> 
 <table align="right">
   <tr>
-    <th>  <img width="150" height="20" alt="617584620-fa50772c-506b-4387-9e40-a039c5f03351" src="https://github.com/user-attachments/assets/c9f70130-964b-40a3-b88a-70e14b7db9b5" /> <img width="150" height="20" alt="504431769-c1cecdef-e3ff-48af-a310-18d382c80d27" src="https://github.com/user-attachments/assets/5dadfc96-dcec-4922-a619-52d7706f9e65" />  
- <p align="center">     ☆⚬‿̩͙‿੭✧──────────✧♱✧──────────✧ৎ‿̩͙‿⚬☆
+    <th>    
+     <img width="150" height="20" alt="504437955-4bc00f2e-b664-4d4d-89ad-d1931a4eb445" src="https://github.com/user-attachments/assets/f633ae0f-e755-4ad8-9517-54321f34a21f" />
       <br>
    <br> 
    $\color{#f05790}{\texttt{𝐞𝐯𝐞𝐧 𝐭𝐡𝐞 𝐢𝐫𝐨𝐧 𝐬𝐭𝐢𝐥𝐥 𝐟𝐞𝐚𝐫𝐬 𝐭𝐡𝐞 𝐫𝐨𝐭.}}$⠀
   <br>
    <br>
  
-   ╭─────── • • ─────── ⋆♱⋆ ─────── • • ───────╮
+   ☆⚬‿̩͙‿੭✧──────────✧♱✧──────────✧ৎ‿̩͙‿⚬☆
       <br>
    <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&color=b40e3e&center=true&vCenter=true&width=300&lines=%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%98%F0%9D%90%80)](https://git.io/typing-svg)
     <br> ♀⠀ ⠀•⠀⠀ 𝟚𝟜 ⠀⠀•⠀⠀ᴇsᴛᴘ ⠀•⠀⠀sᴏ   8 ᴡ 7⠀
@@ -38,9 +40,7 @@
   </th>
   </tr>
 </table>
-
-<br> <img alt="687474~3(1)" src="https://github.com/user-attachments/assets/0042d9c7-6f30-4064-aaf1-0c12437dee84" width="400" align="left"/>
-<br> <img alt="687474~4(1)" src="https://github.com/user-attachments/assets/feb592d0-8119-457f-8726-51095f1714b0" width="400" align="left"/>
+ 
 
 
 <br>
