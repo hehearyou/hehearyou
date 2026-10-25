@@ -79,6 +79,20 @@
 </details>
 
 <details>
+
+  <summary><strong>  $\color{#f85888}{\texttt{fandoms ⌖}}$ </strong></summary> 
+ ╰┈➤ ᴍᴀʀᴠᴇʟ
+<br>╰┈➤ ʀᴇᴅ ᴅᴇᴀᴅ ʀᴇᴅᴇᴍᴘᴛɪᴏɴ 2
+<br>╰┈➤ ᴛᴇᴀᴍ ꜰᴏʀᴛʀᴇss 2
+<br>╰┈➤ ᴄᴀʟʟ ᴏꜰ ᴅᴜᴛʏ
+<br>╰┈➤ ᴛʜᴇ ᴡᴀʟᴋɪɴɢ ᴅᴇᴀᴅ
+<br>╰┈➤ s.ᴛ.ᴀ.ʟ.ᴋ.ᴇ.ʀ.
+<br>╰┈➤ sᴜᴘᴇʀɴᴀᴛᴜʀᴀʟ
+<br>╰┈➤ ʀᴇsɪᴅᴇɴᴛ ᴇᴠɪʟ
+<br>╰┈➤ ᴅᴄ ᴄᴏᴍɪᴄs
+</details>
+   
+<details>
   <summary><strong> $\color{#f85888}{\texttt{kins ⌖}}$ </strong></summary>
 
  <p align="center">
